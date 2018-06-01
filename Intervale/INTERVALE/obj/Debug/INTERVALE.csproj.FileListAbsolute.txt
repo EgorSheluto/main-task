@@ -1,0 +1,30 @@
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE\INTERVALE\bin\Debug\INTERVALE.exe.config
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE\INTERVALE\bin\Debug\INTERVALE.exe
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE\INTERVALE\bin\Debug\INTERVALE.pdb
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE\INTERVALE\obj\Debug\INTERVALE.csprojResolveAssemblyReference.cache
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE\INTERVALE\obj\Debug\INTERVALE.csproj.CoreCompileInputs.cache
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE\INTERVALE\obj\Debug\INTERVALE.exe
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE\INTERVALE\obj\Debug\INTERVALE.pdb
+C:\Users\32prep\Desktop\INTERVALE\INTERVALE\bin\Debug\INTERVALE.exe.config
+C:\Users\32prep\Desktop\INTERVALE\INTERVALE\obj\Debug\INTERVALE.exe
+C:\Users\32prep\Desktop\INTERVALE\INTERVALE\obj\Debug\INTERVALE.pdb
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up\INTERVALE\obj\Debug\INTERVALE.csprojResolveAssemblyReference.cache
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up\INTERVALE\obj\Debug\INTERVALE.csproj.CoreCompileInputs.cache
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up\INTERVALE\obj\Debug\INTERVALE.exe
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up\INTERVALE\obj\Debug\INTERVALE.pdb
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up\INTERVALE\bin\Debug\INTERVALE.exe.config
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up\INTERVALE\bin\Debug\INTERVALE.exe
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up\INTERVALE\bin\Debug\INTERVALE.pdb
+C:\Users\32prep\Desktop\INTERVALE_up\INTERVALE\bin\Debug\INTERVALE.exe.config
+C:\Users\32prep\Desktop\INTERVALE_up\INTERVALE\obj\Debug\INTERVALE.exe
+C:\Users\32prep\Desktop\INTERVALE_up\INTERVALE\obj\Debug\INTERVALE.pdb
+C:\Users\32prep\Desktop\INTERVALE_up\INTERVALE\bin\Debug\INTERVALE.exe
+C:\Users\32prep\Desktop\INTERVALE_up\INTERVALE\bin\Debug\INTERVALE.pdb
+C:\Users\32prep\Desktop\INTERVALE_up\INTERVALE\obj\Debug\INTERVALE.csprojResolveAssemblyReference.cache
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up2\INTERVALE\bin\Debug\INTERVALE.exe.config
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up2\INTERVALE\bin\Debug\INTERVALE.exe
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up2\INTERVALE\bin\Debug\INTERVALE.pdb
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up2\INTERVALE\obj\Debug\INTERVALE.csprojResolveAssemblyReference.cache
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up2\INTERVALE\obj\Debug\INTERVALE.csproj.CoreCompileInputs.cache
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up2\INTERVALE\obj\Debug\INTERVALE.exe
+E:\YOUNG PROGRAMMER(START EDITION)\C# проги с головы\Test tasks\INTERVALE_up2\INTERVALE\obj\Debug\INTERVALE.pdb
